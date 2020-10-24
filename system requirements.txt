@@ -1,0 +1,15 @@
+МИНИМАЛЬНЫЕ:
+ОС: Windows 7 or 10
+Процессор: Intel Core i5-3570K or AMD FX-8310
+Оперативная память: 8 GB ОЗУ
+Видеокарта: NVIDIA GeForce GTX 780 or AMD Radeon RX 470
+DirectX: Версии 12
+Место на диске: 70 GB
+Дополнительно: SSD recommended
+РЕКОМЕНДОВАННЫЕ:
+ОС: Windows 10
+Процессор: Intel Core i7-4790 or AMD Ryzen 3 3200G
+Оперативная память: 12 GB ОЗУ
+Видеокарта: NVIDIA GeForce GTX 1060 or AMD Radeon R9 Fury
+DirectX: Версии 12
+Место на диске: 70 GB
