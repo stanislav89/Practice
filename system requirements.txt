@@ -13,3 +13,11 @@ DirectX: Версии 12
 Видеокарта: NVIDIA GeForce GTX 1060 or AMD Radeon R9 Fury
 DirectX: Версии 12
 Место на диске: 70 GB
+Минимальные: требование к Cyberpunk 2077
+
+ОС: Windows 7 / Windows 10 (64-разрядная);
+DirectX 12
+процессор: Intel Core i5-3570K/AMD FX-8310;
+ОЗУ: 8 ГБ;
+видеокарта: GeForce GTX 780 или AMD Radeon RX 470;
+свободное место на жестком диске: 70 ГБ (рекомендуется SSD).
