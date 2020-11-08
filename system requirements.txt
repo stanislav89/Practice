@@ -4,20 +4,20 @@
 Оперативная память: 8 GB ОЗУ
 Видеокарта: NVIDIA GeForce GTX 780 or AMD Radeon RX 470
 DirectX: Версии 12
-Место на диске: 70 GB
+Место на диске: 70 GB(желательно 170)
 Дополнительно: SSD recommended
 РЕКОМЕНДОВАННЫЕ:
 ОС: Windows 10
 Процессор: Intel Core i7-4790 or AMD Ryzen 3 3200G
 Оперативная память: 12 GB ОЗУ
 Видеокарта: NVIDIA GeForce GTX 1060 or AMD Radeon R9 Fury
-DirectX: Версии 12
+DirectX: Версии 12(1я версия лучше всех)
 Место на диске: 70 GB
 Минимальные: требование к Cyberpunk 2077
 
 ОС: Windows 7 / Windows 10 (64-разрядная);
 DirectX 12
 процессор: Intel Core i5-3570K/AMD FX-8310;
-ОЗУ: 8 ГБ;
+ОЗУ: 8 ГБ;(лучше бы 16)
 видеокарта: GeForce GTX 780 или AMD Radeon RX 470;
 свободное место на жестком диске: 70 ГБ (рекомендуется SSD).
